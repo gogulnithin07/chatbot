@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "question":"Hi, what is the weather",
+        "answer":"I'm sorry for any confusion, but I can't provide real-time information such as current temperature or weather updates. You can check the temperature by using a weather website or app, or by asking a smart assistant like Siri, Google Assistant, or Alexa."
+    },
+    {
+        "id":2,
+        "question":"Hi, what is my location",
+        "answer":"As an AI, I don't have access to your location information. Therefore, I'm unable to determine where you are. If you're using a device with location services enabled, such as a smartphone or computer, you may be able to find your location through the device's settings or by using a map application."
+    },
+    {
+        
+        "id":3,
+        "question":"Hi, what is the temperature",
+        "answer":"I'm sorry for any confusion, but I can't provide real-time information such as current temperature or weather updates. You can check the temperature by using a weather website or app, or by asking a smart assistant like Siri, Google Assistant, or Alexa."
+    },{
+        "id":4,
+        "question":"Hi, how are you",
+        "answer":"Hello! I'm just a computer program, so I don't have feelings in the way humans do, but I'm here and ready to assist you. How can I help you today?"
+    }
+]
